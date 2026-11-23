@@ -1,0 +1,60 @@
+7 x lwin = 700 Ks
+
+Total Amount: 700 Ks
+Thank you for shopping!
+----------------------------------------
+Total Amount: 0 Ks
+Thank you for shopping!
+----------------------------------------
+1 x lwin = 100 Ks
+1 x moe = 900 Ks
+1 x Aung = 500 Ks
+
+Total Amount: 1500 Ks
+Thank you for shopping!
+----------------------------------------
+--- Bill Saved at 2025-11-22 19:07:03 ---
+1 x lwin = 100 Ks
+1 x moe = 900 Ks
+1 x Aung = 500 Ks
+
+Total Amount: 1500 Ks
+Thank you for shopping!
+==================================================
+
+--- Bill Saved at 2025-11-22 19:24:29 ---
+1 x lwin = 100 Ks
+
+Total Amount: 100 Ks
+Thank you for shopping!
+==================================================
+
+--- Bill Saved at 2025-11-22 19:30:01 ---
+1 x lwin = 100 Ks
+5 x apple = 2500 Ks
+4 x moe = 3600 Ks
+
+Total Amount: 6200 Ks
+Thank you for shopping!
+==================================================
+
+--- Bill Saved at 2025-11-22 19:47:08 ---
+1 x lwin = 100 Ks
+
+-----------------------------
+Subtotal: 100 Ks
+Tax (5%): 5 Ks
+Total Amount: 105 Ks
+Thank you for shopping!
+==================================================
+
+--- Bill Saved at 2026-11-23 12:44:36 ---
+20 x Aung = 10000 Ks
+
+-----------------------------
+Subtotal: 10000 Ks
+Tax (5%): 500 Ks
+Total Amount: 10500 Ks
+Thank you for shopping!
+==================================================
+

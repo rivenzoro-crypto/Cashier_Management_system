@@ -1,0 +1,5 @@
+lwin,100
+apple,500
+you,500
+moe,900
+Aung,500
